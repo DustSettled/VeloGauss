@@ -3,8 +3,8 @@
 
 ## ⚙️ Installation
 ```shell script
-git clone https://github.com/DustSettled/CausalGS.git --recursive
-cd CausalGS
+git clone https://github.com/DustSettled/VeloGauss.git --recursive
+cd VeloGauss
 
 ### CUDA 12.4
 conda env create -f env.yml
